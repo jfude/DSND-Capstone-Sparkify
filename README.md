@@ -2,7 +2,7 @@
 Prediction of churn for a fictional music streaming service.
 
 ## Introduction
-Using a small sample of data from a hypothetical music streaming service (similar to Pandora or Spotify), we attempt to develop a model to anticipate **churn**, i.e. cancellation of the service. The analysis is performed using pySpark. A blog post outlining the analysis and results in this repository can be found [here](https://medium.com/@jaalfordii/predicting-churn-for-sparkify-75c862e3e286).
+Using a small sample of data from a hypothetical music streaming service (similar to Pandora or Spotify), we attempt to develop a model to anticipate **churn**, i.e. cancellation of the service. The analysis is performed using pySpark.
 
 ## Files
   * dsnd_capstone_sparkify.ipynb -- *The notebook containing the analysis*
